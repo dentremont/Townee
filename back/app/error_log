@@ -1,0 +1,2 @@
+[14-May-2012 10:12:54] PHP Warning:  unlink(../db/error_log.txt) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/accounts/towne/public_html/app/admin.php on line 6
+[20-Jul-2012 12:54:54] PHP Warning:  unlink(../db/error_log.txt) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/accounts/towne/public_html/app/admin.php on line 6

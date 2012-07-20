@@ -1,0 +1,52 @@
+[20-Jul-2012 13:55:47] Phirehose: Connecting to twitter stream: https://stream.twitter.com/1/statuses/filter.json with params: array (  'delimited' => 'length',  'track' => '##INSPIRATIONGRANTS,#LFT,#Mardi Gras,#cajunkindness,#deals,#delicious,#discounts,#downtown,#drinkspecial,#fibercorps,#getinvolved ,#gooddate,#goodeats,#jobs,#livemusic,#lunchspecials,#mardigras,#moms,#movies,#net2lft,#nocover,#oilspill,#ragincajuns,#single,#tech,#townee,#whodat',)
+[20-Jul-2012 13:55:47] Phirehose: Resolved host stream.twitter.com to 199.59.148.138
+[20-Jul-2012 13:55:47] Phirehose: Connecting to ssl://199.59.148.138, port=443, connectTimeout=5
+[20-Jul-2012 13:55:47] Phirehose: Connection established to 199.59.148.138
+[20-Jul-2012 13:55:47] Phirehose: POST /1/statuses/filter.json HTTP/1.0
+
+[20-Jul-2012 13:55:47] Phirehose: Host: stream.twitter.com:443
+
+[20-Jul-2012 13:55:47] Phirehose: Content-type: application/x-www-form-urlencoded
+
+[20-Jul-2012 13:55:47] Phirehose: Content-length: 413
+
+[20-Jul-2012 13:55:47] Phirehose: Accept: */*
+
+[20-Jul-2012 13:55:47] Phirehose: Authorization: Basic: dG93bmVlYmV0YTpsZXhpcDIxOQ==
+
+[20-Jul-2012 13:55:47] Phirehose: User-Agent: Phirehose/0.2.gitmaster +https://github.com/fennb/phirehose
+
+[20-Jul-2012 13:55:47] Phirehose: 
+
+[20-Jul-2012 13:55:47] Phirehose: delimited=length&track=%23%23INSPIRATIONGRANTS%2C%23LFT%2C%23Mardi%20Gras%2C%23cajunkindness%2C%23deals%2C%23delicious%2C%23discounts%2C%23downtown%2C%23drinkspecial%2C%23fibercorps%2C%23getinvolved%20%2C%23gooddate%2C%23goodeats%2C%23jobs%2C%23livemusic%2C%23lunchspecials%2C%23mardigras%2C%23moms%2C%23movies%2C%23net2lft%2C%23nocover%2C%23oilspill%2C%23ragincajuns%2C%23single%2C%23tech%2C%23townee%2C%23whodat
+
+[20-Jul-2012 13:55:47] Phirehose: 
+
+[20-Jul-2012 13:56:49] Phirehose: Consume rate: 1 status/sec (75 total), avg enqueueStatus(): 5.21ms, avg checkFilterPredicates(): 0.31ms (10 total) over 62 seconds, max stream idle period: 5 seconds.
+[20-Jul-2012 14:05:02] Phirehose: Connecting to twitter stream: https://stream.twitter.com/1/statuses/filter.json with params: array (  'delimited' => 'length',  'track' => '##INSPIRATIONGRANTS,#LFT,#Mardi Gras,#cajunkindness,#deals,#delicious,#discounts,#downtown,#drinkspecial,#fibercorps,#getinvolved ,#gooddate,#goodeats,#jobs,#livemusic,#lunchspecials,#mardigras,#moms,#movies,#net2lft,#nocover,#oilspill,#ragincajuns,#single,#tech,#townee,#whodat',)
+[20-Jul-2012 14:05:02] Phirehose: Resolved host stream.twitter.com to 199.59.148.138
+[20-Jul-2012 14:05:02] Phirehose: Connecting to ssl://199.59.148.138, port=443, connectTimeout=5
+[20-Jul-2012 14:05:02] Phirehose: Connection established to 199.59.148.138
+[20-Jul-2012 14:05:02] Phirehose: POST /1/statuses/filter.json HTTP/1.0
+
+[20-Jul-2012 14:05:02] Phirehose: Host: stream.twitter.com:443
+
+[20-Jul-2012 14:05:02] Phirehose: Content-type: application/x-www-form-urlencoded
+
+[20-Jul-2012 14:05:02] Phirehose: Content-length: 413
+
+[20-Jul-2012 14:05:02] Phirehose: Accept: */*
+
+[20-Jul-2012 14:05:02] Phirehose: Authorization: Basic: dG93bmVlYmV0YTpsZXhpcDIxOQ==
+
+[20-Jul-2012 14:05:02] Phirehose: User-Agent: Phirehose/0.2.gitmaster +https://github.com/fennb/phirehose
+
+[20-Jul-2012 14:05:02] Phirehose: 
+
+[20-Jul-2012 14:05:02] Phirehose: delimited=length&track=%23%23INSPIRATIONGRANTS%2C%23LFT%2C%23Mardi%20Gras%2C%23cajunkindness%2C%23deals%2C%23delicious%2C%23discounts%2C%23downtown%2C%23drinkspecial%2C%23fibercorps%2C%23getinvolved%20%2C%23gooddate%2C%23goodeats%2C%23jobs%2C%23livemusic%2C%23lunchspecials%2C%23mardigras%2C%23moms%2C%23movies%2C%23net2lft%2C%23nocover%2C%23oilspill%2C%23ragincajuns%2C%23single%2C%23tech%2C%23townee%2C%23whodat
+
+[20-Jul-2012 14:05:02] Phirehose: 
+
+[20-Jul-2012 14:06:02] Phirehose: Consume rate: 1 status/sec (82 total), avg enqueueStatus(): 1.4ms, avg checkFilterPredicates(): 0.34ms (10 total) over 60 seconds, max stream idle period: 5 seconds.
+[20-Jul-2012 14:07:02] Phirehose: Consume rate: 2 status/sec (121 total), avg enqueueStatus(): 0.88ms, avg checkFilterPredicates(): 0.65ms (11 total) over 60 seconds, max stream idle period: 4 seconds.
+[20-Jul-2012 14:08:02] Phirehose: Consume rate: 1 status/sec (80 total), avg enqueueStatus(): 0.91ms, avg checkFilterPredicates(): 0.31ms (11 total) over 60 seconds, max stream idle period: 3 seconds.
